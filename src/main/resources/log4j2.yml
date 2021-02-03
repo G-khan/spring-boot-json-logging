@@ -7,7 +7,7 @@ Configuration:
         target: SYSTEM_OUT
         JSONLayout:
           compact: true
-          complete: true
+          eventEol: true
           objectMessageAsJsonObject: true
 
       - name: CONSOLE_ROOT
